@@ -2,6 +2,8 @@
 
 Oiii! Eu sou a Kátia Johandra!
 
+##
+
 <div>
   <a href= "https://github.com/KatiaJohandra">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=KatiaJohandra&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -9,6 +11,7 @@ Oiii! Eu sou a Kátia Johandra!
 
 </div>
     
+ 
   ##
  
 <div> 
@@ -18,7 +21,7 @@ Oiii! Eu sou a Kátia Johandra!
   <a href="https://www.linkedin.com/in/katiajohandra/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 ##
-##
+
 
  ![Snake animation](https://github.com/KatiaJohandra/KatiaJohandra/blob/output/github-contribution-grid-snake.svg)
  
