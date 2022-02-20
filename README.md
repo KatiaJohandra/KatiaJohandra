@@ -1,4 +1,7 @@
--## Oiii eu sou a Kátia Johandra!
+## 
+
+Oiii! Eu sou a Kátia Johandra!
+
 <div>
   <a href= "https://github.com/KatiaJohandra">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KatiaJohandra&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
