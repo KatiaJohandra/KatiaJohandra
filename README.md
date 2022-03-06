@@ -10,7 +10,11 @@ Oiii! Eu sou a Kátia Johandra!
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatiaJohandra&layout=compact&langs_count=7&theme=radical"/>
 
 </div>
-    
+    </div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
  
   ##
  
